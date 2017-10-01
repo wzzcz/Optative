@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Unity3D 游戏开发
+## 第一周 
+### 天气模块开发完成
+1. 支持动态天气 包含（晴天，多云，雨天，雪天，风暴，雾天）
+2. 日夜更替
+3. 模拟日光直射(测试阶段)
+4. 开发工具类方便项目后期使用
 
-You can use the [editor on GitHub](https://github.com/wzzcz/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 第二周
+### 镜头效果模块开发完成
+1. 支持Bloom(泛光)
+2. 支持HDR
+3. 支持动态模糊
+4. 支持色调映射(HDR优化)
+5. 支持SSAO(遮蔽阴影)
+6. 支持抗锯齿 FXAA
+7. 支持镜头 dirty
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 第三周
+### 3rd基础控制模块开发完成
+1. 自由视角
+2. 战斗时锁定视角
+3. 角色简单移动跳跃
 
-### Markdown
+## 第四周
+### 地图基础模块测试
+1. 自动根据3d场景生成俯视2d地图
+2. 开发工具类方便项目后期使用
+3. 实现目标追踪，在地图与场景中上显示与目标的方向与距离关系
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wzzcz/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 第五周
+### 资源整合
+发布 1.0.0.201701001—base 版本 整合包大小 1.4G (工程包) 测试版本发布在本工程中(HomePage)作为记录
+包含三个场景：
+1. 01.sence 中国风场景 + 动态天气系统 + 第一人称视角控制器 + 镜头效果 演示
+2. 02.sence 中国风场景测试
+3. projecttest.sence 简单地形 + 动态控制器 + 动态天气系统 + 第一人称视角控制器 + 镜头效果 + 地图测试模块 演示
