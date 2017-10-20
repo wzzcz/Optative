@@ -54,5 +54,11 @@
 详见日常维护与更新文件夹
 
 发布 1.0.1.201701013—base 版本 整合包大小 1.2G (工程包) 测试版本发布在本工程中(HomePage)作为记录
+
+(VolumetricLights has imported)
 发布 1.0.2.201701018—base 版本 整合包大小 1.3G (工程包) 测试版本发布在本工程中(HomePage)作为记录
+
+(Rider module has imported)
 发布 1.1.0.201701020—base 版本 整合包大小 1.4G (工程包) 测试版本发布在本工程中(HomePage)作为记录
+
+(Rider module fixed)
