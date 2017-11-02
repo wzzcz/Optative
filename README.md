@@ -59,9 +59,11 @@
 
 ## 第八周
 ### 场景切换模块测试
+新增了两个新的场景
 详见日常维护与更新文件夹
+
 ### 新的抗锯齿解决方案
 详见日常维护与更新文件夹
 
-1. 发布 1.0.1.201701021—base 版本 整合包大小 1.2G (工程包) 测试版本发布在本工程中(HomePage)作为记录(VolumetricLights has imported)
-2. 发布 1.0.2.201701028—base 版本 整合包大小 4.6G (工程包) 测试版本发布在本工程中(HomePage)作为记录(Rider module has imported)
+1. 发布 1.2.0.201701021—base 版本 整合包大小 4.2G (工程包) 测试版本发布在本工程中(HomePage)作为记录(new Scence has imported)
+2. 发布 1.2.1.201701028—base 版本 整合包大小 4.6G (工程包) 测试版本发布在本工程中(HomePage)作为记录(new AA resoulation has imported)
