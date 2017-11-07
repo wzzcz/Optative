@@ -67,3 +67,16 @@
 
 1. 发布 1.2.0.201701021—base 版本 整合包大小 4.2G (工程包) 测试版本发布在本工程中(HomePage)作为记录(new Scence has imported)
 2. 发布 1.2.1.201701028—base 版本 整合包大小 4.6G (工程包) 测试版本发布在本工程中(HomePage)作为记录(new AA resoulation has imported)
+
+## 第九周
+UI搭建
+
+1.主界面
+
+2.设置界面
+
+  1>声音设置
+  
+  2>视频设置
+  
+  3>输入设置
