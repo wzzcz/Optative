@@ -88,4 +88,7 @@
 ## 第十、十一周
 ## 美术效果升级
 后期效果模块更新
-1. 发布 1.0.1.201701115—base 版本 整合包大小 4.2G (工程包) 测试版本发布在本工程中(HomePage)作为记录(post-processing has fixed && UI has imported)
+1. 发布 1.2.2.201701115—base 版本 整合包大小 4.2G (工程包) 测试版本发布在本工程中(HomePage)作为记录(post-processing has fixed && UI has imported)
+
+## 第十二周
+1.发布4个编译版本
