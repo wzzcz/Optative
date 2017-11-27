@@ -101,7 +101,8 @@
 2.发布 beta 版本 20171126
 
 Logo动画
-![logo](http://osyc94hhl.bkt.clouddn.com/github/logoAnim.gif)
+[logo](http://osyc94hhl.bkt.clouddn.com/github/logoAnim.gif)
+
 
 主菜单
-![mainMenu](http://osyc94hhl.bkt.clouddn.com/github/mainMenu.gif)
+[mainMenu](http://osyc94hhl.bkt.clouddn.com/github/mainMenu.gif)
